@@ -1,0 +1,14 @@
+{
+  "name": "silent",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  }
+}
